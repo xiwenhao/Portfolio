@@ -11,4 +11,4 @@ Yum Kitchen: https://yumkitchen.netlify.app/
 
 Photo Gallery: https://photogalleryofcats.netlify.app/
 
-Login：https://xiwenhaostudent.github.io/login/
+Login: https://loginwithregistration.netlify.app/
