@@ -1,4 +1,4 @@
-# Portfolio of Xiwen Hao
+# Frontend Projects Exhibition
 React Portfolio Website: https://xiwenhao.pages.dev/
 
 React Foodie Website: https://foodie-5et.pages.dev/
