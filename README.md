@@ -9,6 +9,6 @@ Word Guessing Game: https://wordguessinggame6.netlify.app/
 
 Yum Kitchen: https://yumkitchen.netlify.app/
 
-Photo Gallery：https://xiwenhaostudent.github.io/asterandtito/
+Photo Gallery: https://photogalleryofcats.netlify.app/
 
 Login：https://xiwenhaostudent.github.io/login/
